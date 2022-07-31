@@ -3,6 +3,7 @@
 - 😄 My name is: Thanakorn Wannajuk
 - ⚡ Student id: 63362426
 - 🔭 I'm currently studying on Faculty of Engineering.
+- Career in future is : Programmer
 
 ## Developer Tech
 
