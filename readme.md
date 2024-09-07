@@ -41,7 +41,7 @@
   </a> 
 
 <a href="#">
-    <img src="svg/dev/languages/csss3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
   </a>
 
 <a href="#">
